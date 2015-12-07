@@ -6,12 +6,12 @@
   "primary_category": "4433d38410574114a26ddfd5fea3d87c", 
   "created_at": "2015-12-07T11:48:50.036582+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-07T11:48:50.036842+00:00", 
+  "modified_at": "2015-12-07T12:03:25.539356+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "882c3ff72bbc4f46a295c59261f36575", 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "jai-la-parole", 
   "uuid": "37e5eba3793f4e88afddd40fd621f4b5"
